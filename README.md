@@ -1,4 +1,4 @@
-# pglogical Replication — Complete Proof of Concept Lab Guide
+# PostgreSQL pglogical Replication — Complete Proof of Concept
 ### WSL + Podman + PostgreSQL Environment
 
 > **Hands-on Lab** | PostgreSQL 15 | pglogical 2.x | Podman Containers | WSL2
@@ -2274,4 +2274,4 @@ podman network rm pglogical-net
 
 ---
 
-> **Lab complete.** All 25 steps of the pglogical PoC have been demonstrated. Each feature was validated with SQL queries and expected outputs. Refer to the [Troubleshooting](#troubleshooting) section for common issues, and the [Quick Reference Cheat Sheet](#quick-reference-cheat-sheet) for day-to-day operations.
+and expected outputs. Refer to the [Troubleshooting](#troubleshooting) section for common issues, and the [Quick Reference Cheat Sheet](#quick-reference-cheat-sheet) for day-to-day operations.
